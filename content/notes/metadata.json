@@ -1,0 +1,641 @@
+[
+  {
+    "fileName": "Principal",
+    "relativePath": "Template/Principal.md"
+  },
+  {
+    "fileName": "Sans titre",
+    "relativePath": "4. Archive/Sans titre.md"
+  },
+  {
+    "fileName": "Troubleshoot SSH",
+    "relativePath": "3. Ressource/Linux/Troubleshoot SSH.md",
+    "tags": [
+      "linux",
+      "rhcsa",
+      "ssh",
+      "troubleshoot"
+    ],
+    "headings": [
+      {
+        "heading": "Identifier les informations à la connexion",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "RHCSA",
+        "relativePath": "2. Area/Linux/RHCSA.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "RHCSA",
+        "link": "Troubleshoot SSH",
+        "relativePath": "2. Area/Linux/RHCSA.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Configuration client SSH",
+    "relativePath": "3. Ressource/Linux/Configuration client SSH.md",
+    "tags": [
+      "linux",
+      "rhcsa",
+      "ssh"
+    ],
+    "headings": [
+      {
+        "heading": "<span style=\"color:#858585;font-weight: bold;\">Les options communes disponibles:</span>",
+        "level": 6
+      }
+    ],
+    "links": [
+      {
+        "link": "RHCSA",
+        "relativePath": "2. Area/Linux/RHCSA.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "RHCSA",
+        "link": "Configuration client SSH",
+        "relativePath": "2. Area/Linux/RHCSA.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Vim",
+    "relativePath": "3. Ressource/Linux/Vim.md",
+    "tags": [
+      "linux",
+      "rhcsa",
+      "vim"
+    ],
+    "links": [
+      {
+        "link": "RHCSA",
+        "relativePath": "2. Area/Linux/RHCSA.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "RHCSA",
+        "link": "Vim",
+        "relativePath": "2. Area/Linux/RHCSA.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Authentification SSH par clé",
+    "relativePath": "3. Ressource/Linux/Authentification SSH par clé.md",
+    "tags": [
+      "linux",
+      "rhcsa",
+      "ssh"
+    ],
+    "headings": [
+      {
+        "heading": "Création de la paire de clé",
+        "level": 5
+      },
+      {
+        "heading": "<span style=\"color:#858585;font-weight: bold;\">Les options disponibles:</span>",
+        "level": 6
+      },
+      {
+        "heading": "Copie de la clé public sur le serveur distant",
+        "level": 5
+      },
+      {
+        "heading": "Connexion sur le serveur avec la clé SSH",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "RHCSA",
+        "relativePath": "2. Area/Linux/RHCSA.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "RHCSA",
+        "link": "Authentification SSH par clé",
+        "relativePath": "2. Area/Linux/RHCSA.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Créer son second cerveau",
+    "relativePath": "3. Ressource/UpSkill/Créer son second cerveau.md",
+    "tags": [
+      "secondbrain",
+      "upskill"
+    ],
+    "headings": [
+      {
+        "heading": "Structure",
+        "level": 2
+      },
+      {
+        "heading": "Tagging-first",
+        "level": 6
+      },
+      {
+        "heading": "Notebook-first",
+        "level": 6
+      },
+      {
+        "heading": "Note-first",
+        "level": 6
+      },
+      {
+        "heading": "Construction des notes",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "méthode P.A.R.A",
+        "relativePath": "3. Ressource/UpSkill/méthode P.A.R.A.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Knowledge Management",
+        "link": "Créer son second cerveau",
+        "relativePath": "3. Ressource/UpSkill/Knowledge Management.md"
+      },
+      {
+        "fileName": "Pourquoi avoir un second cerveau",
+        "link": "Créer son second cerveau",
+        "relativePath": "3. Ressource/UpSkill/Pourquoi avoir un second cerveau.md"
+      },
+      {
+        "fileName": "Second Cerveau",
+        "link": "Créer son second cerveau",
+        "relativePath": "2. Area/UpSkill/Second Cerveau.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Knowledge Management",
+    "relativePath": "3. Ressource/UpSkill/Knowledge Management.md",
+    "tags": [
+      "secondbrain",
+      "knowledgemanagement",
+      "upskill"
+    ],
+    "links": [
+      {
+        "link": "Second Cerveau",
+        "relativePath": "2. Area/UpSkill/Second Cerveau.md"
+      },
+      {
+        "link": "Créer son second cerveau",
+        "relativePath": "3. Ressource/UpSkill/Créer son second cerveau.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Pourquoi avoir un second cerveau",
+        "link": "Knowledge Management",
+        "relativePath": "3. Ressource/UpSkill/Pourquoi avoir un second cerveau.md"
+      },
+      {
+        "fileName": "Second Cerveau",
+        "link": "Knowledge Management",
+        "relativePath": "2. Area/UpSkill/Second Cerveau.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Pourquoi avoir un second cerveau",
+    "relativePath": "3. Ressource/UpSkill/Pourquoi avoir un second cerveau.md",
+    "tags": [
+      "secondbrain",
+      "upskill"
+    ],
+    "links": [
+      {
+        "link": "Second Cerveau",
+        "relativePath": "2. Area/UpSkill/Second Cerveau.md"
+      },
+      {
+        "link": "Knowledge Management",
+        "relativePath": "3. Ressource/UpSkill/Knowledge Management.md"
+      },
+      {
+        "link": "méthode Zettelkasten",
+        "relativePath": "3. Ressource/UpSkill/méthode Zettelkasten.md"
+      },
+      {
+        "link": "méthode P.A.R.A",
+        "relativePath": "3. Ressource/UpSkill/méthode P.A.R.A.md"
+      },
+      {
+        "link": "Créer son second cerveau",
+        "relativePath": "3. Ressource/UpSkill/Créer son second cerveau.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Second Cerveau",
+        "link": "Pourquoi avoir un second cerveau",
+        "relativePath": "2. Area/UpSkill/Second Cerveau.md"
+      }
+    ]
+  },
+  {
+    "fileName": "méthode P.A.R.A",
+    "relativePath": "3. Ressource/UpSkill/méthode P.A.R.A.md",
+    "tags": [
+      "secondbrain",
+      "upskill",
+      "para"
+    ],
+    "headings": [
+      {
+        "heading": "Project",
+        "level": 2
+      },
+      {
+        "heading": "Areas of responsability",
+        "level": 2
+      },
+      {
+        "heading": "Ressources",
+        "level": 2
+      },
+      {
+        "heading": "Archives",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Second Cerveau",
+        "relativePath": "2. Area/UpSkill/Second Cerveau.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Créer son second cerveau",
+        "link": "méthode P.A.R.A",
+        "relativePath": "3. Ressource/UpSkill/Créer son second cerveau.md"
+      },
+      {
+        "fileName": "Pourquoi avoir un second cerveau",
+        "link": "méthode P.A.R.A",
+        "relativePath": "3. Ressource/UpSkill/Pourquoi avoir un second cerveau.md"
+      },
+      {
+        "fileName": "Second Cerveau",
+        "link": "méthode P.A.R.A",
+        "relativePath": "2. Area/UpSkill/Second Cerveau.md"
+      }
+    ]
+  },
+  {
+    "fileName": "méthode Zettelkasten",
+    "relativePath": "3. Ressource/UpSkill/méthode Zettelkasten.md",
+    "tags": [
+      "secondbrain",
+      "upskill",
+      "zettelkasten"
+    ],
+    "headings": [
+      {
+        "heading": "**Comment fonctionne la méthode Zettelkasten ?**",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Second Cerveau",
+        "relativePath": "2. Area/UpSkill/Second Cerveau.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Pourquoi avoir un second cerveau",
+        "link": "méthode Zettelkasten",
+        "relativePath": "3. Ressource/UpSkill/Pourquoi avoir un second cerveau.md"
+      },
+      {
+        "fileName": "Second Cerveau",
+        "link": "méthode Zettelkasten",
+        "relativePath": "2. Area/UpSkill/Second Cerveau.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Clone groupe AD",
+    "relativePath": "3. Ressource/PowerShell/Clone groupe AD.md",
+    "tags": [
+      "powershell",
+      "ad",
+      "activedirectory"
+    ],
+    "links": [
+      {
+        "link": "PowerShell",
+        "relativePath": "2. Area/PowerShell/PowerShell.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "PowerShell",
+        "link": "Clone groupe AD",
+        "relativePath": "2. Area/PowerShell/PowerShell.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Ciblage host",
+    "relativePath": "3. Ressource/Automation/Ciblage host.md",
+    "tags": [
+      "salt",
+      "saltstack",
+      "cheatsheet",
+      "target",
+      "automation",
+      "automatisation"
+    ],
+    "headings": [
+      {
+        "heading": "Sélection à partir d'une IP ou d'une plage IP",
+        "level": 3
+      },
+      {
+        "heading": "Pour une IP",
+        "level": 6
+      },
+      {
+        "heading": "Pour une plage IP",
+        "level": 6
+      },
+      {
+        "heading": "Sélection d'une liste définie d'host",
+        "level": 3
+      },
+      {
+        "heading": "Sélection avec une regex",
+        "level": 3
+      },
+      {
+        "heading": "Sélection à partir d'une information définie",
+        "level": 3
+      },
+      {
+        "heading": "Sélection complexe à partir d'une information définie",
+        "level": 3
+      },
+      {
+        "heading": "Sélection à partir d'un pillar",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Automation",
+        "relativePath": "2. Area/Automation/Automation.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Automation",
+        "link": "Ciblage host",
+        "relativePath": "2. Area/Automation/Automation.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Flan (sans pâte)",
+    "relativePath": "3. Ressource/Food/Flan (sans pâte).md",
+    "tags": [
+      "food",
+      "recette",
+      "dessert"
+    ],
+    "backlinks": [
+      {
+        "fileName": "Recettes",
+        "link": "Flan (sans pâte)",
+        "relativePath": "2. Area/Food/Recettes.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Taboulé",
+    "relativePath": "3. Ressource/Food/Taboulé.md",
+    "tags": [
+      "food",
+      "recette",
+      "plat",
+      "accompagnement"
+    ],
+    "headings": [
+      {
+        "heading": "Ingrédients:",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Recettes",
+        "link": "Taboulé",
+        "relativePath": "2. Area/Food/Recettes.md"
+      }
+    ]
+  },
+  {
+    "fileName": "RHCSA",
+    "relativePath": "2. Area/Linux/RHCSA.md",
+    "tags": [
+      "linux",
+      "redhat",
+      "rhcsa"
+    ],
+    "links": [
+      {
+        "link": "Vim",
+        "relativePath": "3. Ressource/Linux/Vim.md"
+      },
+      {
+        "link": "Authentification SSH par clé",
+        "relativePath": "3. Ressource/Linux/Authentification SSH par clé.md"
+      },
+      {
+        "link": "Configuration client SSH",
+        "relativePath": "3. Ressource/Linux/Configuration client SSH.md"
+      },
+      {
+        "link": "Troubleshoot SSH",
+        "relativePath": "3. Ressource/Linux/Troubleshoot SSH.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Troubleshoot SSH",
+        "link": "RHCSA",
+        "relativePath": "3. Ressource/Linux/Troubleshoot SSH.md"
+      },
+      {
+        "fileName": "Configuration client SSH",
+        "link": "RHCSA",
+        "relativePath": "3. Ressource/Linux/Configuration client SSH.md"
+      },
+      {
+        "fileName": "Vim",
+        "link": "RHCSA",
+        "relativePath": "3. Ressource/Linux/Vim.md"
+      },
+      {
+        "fileName": "Authentification SSH par clé",
+        "link": "RHCSA",
+        "relativePath": "3. Ressource/Linux/Authentification SSH par clé.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Second Cerveau",
+    "relativePath": "2. Area/UpSkill/Second Cerveau.md",
+    "tags": [
+      "secondbrain",
+      "upskill"
+    ],
+    "links": [
+      {
+        "link": "Pourquoi avoir un second cerveau",
+        "relativePath": "3. Ressource/UpSkill/Pourquoi avoir un second cerveau.md"
+      },
+      {
+        "link": "méthode Zettelkasten",
+        "relativePath": "3. Ressource/UpSkill/méthode Zettelkasten.md"
+      },
+      {
+        "link": "méthode P.A.R.A",
+        "relativePath": "3. Ressource/UpSkill/méthode P.A.R.A.md"
+      },
+      {
+        "link": "Knowledge Management",
+        "relativePath": "3. Ressource/UpSkill/Knowledge Management.md"
+      },
+      {
+        "link": "Créer son second cerveau",
+        "relativePath": "3. Ressource/UpSkill/Créer son second cerveau.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Knowledge Management",
+        "link": "Second Cerveau",
+        "relativePath": "3. Ressource/UpSkill/Knowledge Management.md"
+      },
+      {
+        "fileName": "Pourquoi avoir un second cerveau",
+        "link": "Second Cerveau",
+        "relativePath": "3. Ressource/UpSkill/Pourquoi avoir un second cerveau.md"
+      },
+      {
+        "fileName": "méthode P.A.R.A",
+        "link": "Second Cerveau",
+        "relativePath": "3. Ressource/UpSkill/méthode P.A.R.A.md"
+      },
+      {
+        "fileName": "méthode Zettelkasten",
+        "link": "Second Cerveau",
+        "relativePath": "3. Ressource/UpSkill/méthode Zettelkasten.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Automation",
+    "relativePath": "2. Area/Automation/Automation.md",
+    "tags": [
+      "automation",
+      "automatisation"
+    ],
+    "headings": [
+      {
+        "heading": "SaltStack",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Ciblage host",
+        "relativePath": "3. Ressource/Automation/Ciblage host.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Ciblage host",
+        "link": "Automation",
+        "relativePath": "3. Ressource/Automation/Ciblage host.md"
+      }
+    ]
+  },
+  {
+    "fileName": "PowerShell",
+    "relativePath": "2. Area/PowerShell/PowerShell.md",
+    "tags": [
+      "powershell"
+    ],
+    "links": [
+      {
+        "link": "PowerShell",
+        "relativePath": "2. Area/PowerShell/PowerShell.md"
+      },
+      {
+        "link": "Clone groupe AD",
+        "relativePath": "3. Ressource/PowerShell/Clone groupe AD.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Clone groupe AD",
+        "link": "PowerShell",
+        "relativePath": "3. Ressource/PowerShell/Clone groupe AD.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Recettes",
+    "relativePath": "2. Area/Food/Recettes.md",
+    "tags": [
+      "food",
+      "recette"
+    ],
+    "headings": [
+      {
+        "heading": "Entrées",
+        "level": 1
+      },
+      {
+        "heading": "Plats",
+        "level": 1
+      },
+      {
+        "heading": "Desserts",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Taboulé",
+        "relativePath": "3. Ressource/Food/Taboulé.md"
+      },
+      {
+        "link": "Flan (sans pâte)",
+        "relativePath": "3. Ressource/Food/Flan (sans pâte).md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sans titre",
+    "relativePath": "1. Project/Sans titre.md"
+  }
+]
