@@ -1,5 +1,5 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
+baseURL = "https://alexzphr.github.io/quartz/"
+languageCode = "fr-FR"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
 disablePathToLower = true
