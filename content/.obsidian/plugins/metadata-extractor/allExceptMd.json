@@ -1,0 +1,83 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "1. Project",
+      "relativePath": "1. Project"
+    },
+    {
+      "name": "2. Area",
+      "relativePath": "2. Area"
+    },
+    {
+      "name": "3. Ressource",
+      "relativePath": "3. Ressource"
+    },
+    {
+      "name": "Template",
+      "relativePath": "Template"
+    },
+    {
+      "name": "4. Archive",
+      "relativePath": "4. Archive"
+    },
+    {
+      "name": "Food",
+      "relativePath": "2. Area/Food"
+    },
+    {
+      "name": "Automation",
+      "relativePath": "2. Area/Automation"
+    },
+    {
+      "name": "PowerShell",
+      "relativePath": "2. Area/PowerShell"
+    },
+    {
+      "name": "UpSkill",
+      "relativePath": "2. Area/UpSkill"
+    },
+    {
+      "name": "Linux",
+      "relativePath": "2. Area/Linux"
+    },
+    {
+      "name": "Food",
+      "relativePath": "3. Ressource/Food"
+    },
+    {
+      "name": "Python",
+      "relativePath": "2. Area/Python"
+    },
+    {
+      "name": "Automation",
+      "relativePath": "3. Ressource/Automation"
+    },
+    {
+      "name": "PowerShell",
+      "relativePath": "3. Ressource/PowerShell"
+    },
+    {
+      "name": "Linux",
+      "relativePath": "3. Ressource/Linux"
+    },
+    {
+      "name": "UpSkill",
+      "relativePath": "3. Ressource/UpSkill"
+    },
+    {
+      "name": "Python",
+      "relativePath": "3. Ressource/Python"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "metadata.json",
+      "basename": "metadata",
+      "relativePath": "metadata.json"
+    }
+  ]
+}
